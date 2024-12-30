@@ -1,0 +1,6 @@
+__title__ = "pyavrio-scheduler"
+__description__ = "Python Scheduler library for Avrio"
+__url__ = "https://github.com/avrioproductionsupport/pyavrio-scheduler"
+__version__ = "20.0.0"
+__author__ = "Avrio Team"
+__author_email__ = "avrioproductionsupport@trianz.com"
